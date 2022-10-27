@@ -1,0 +1,20 @@
+## Reference Material
+| Topic | Links  | Remarks | 
+|:-----------|:-----------| :-----------| 
+| Sentris | [Sentris Documentation](https://microsoft.sharepoint.com/:f:/r/teams/GatesRCAdeploymentteam/Shared%20Documents/General/Software/Installers/Sentris%20Installers%20-%202021R1?csf=1&web=1&e=n05eeo&xsdata=MDN8MDF8fDMzZWY4NGI3YzJmNjRjNzlhOWMxNDQwNjUzNTM2MzJmfDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDF8MHw2Mzc3NjgzMzI0MzYwMTc5MTZ8R29vZHxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT0%3D&sdata=VmNTd1pnRGFFWVE1UnJ3YU9lb3dIZ3FOaXEwYkh1ODdrR2FCNHJHOEk3dz0%3D&ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cjiriekse%40microsoft.com)| Request access
+| | [Sentris Video](https://microsoft.sharepoint.com/teams/Gates2?xsdata=MDN8MDF8fDdhOWMyYzg5MmE2MjRlNjY4NWRlNmJkNjhmZmJhNjM4fDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDF8MHw2Mzc3NjgzMTE0MTUzNjEyNDd8R29vZHxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT0%3D&sdata=OUVwcVZBVkEra1paT21nV0ZRMHZwcWJDV1JlOVZEVmpra3d6KzJCQnkvND0%3D&ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cjiriekse%40microsoft.com) by Jennifer| Request access
+| MSLab on GitHub | [MSLab GitHub](https://github.com/microsoft/MSLab) | Provided by Danny Burdiez |
+| Deploy Azure Stack HCI with MDT  | [Youtube video](https://www.youtube.com/watch?v=Vipbhkv9wyM) | Provided by Danny Burdiez |
+| Strike | Strike Community Links | Provided by Chad Austin |
+| | [Get Secure](https://strikecommunity.azurewebsites.net/spaces/211/get-secure-content-owners.html) | Strike Community 
+| | [Strike Online Training Courses](https://strikecommunity.azurewebsites.net/spaces/36/index.html) | 
+| | [Exploiting Vulnerabilities in Azure Stack Hub](https://strikecommunity.azurewebsites.net/articles/9723/course-exploiting-vulnerabilities-in-azure-stack-h.html) | 
+| Azure Stack Hub| Stack Readiness Links | Provided by Chad Austin |
+| | [Azure Stack Hub Foundation Core](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FAzure-Samples%2FAzure-Stack-Hub-Foundation-Core%2Ftree%2Fmaster%2FASF-Training&data=04%7C01%7CChad.Austin%40microsoft.com%7Cf397e21ae3e841b6d5f308d955d2ebbc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637635186651896670%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=flCE8LDdfsg8O%2B3ZF3cxh4TxtvjhPKD70akL17Z7qOY%3D&reserved=0) | Study materials hosted on GitHub |
+| | [Azure Stack Hub Foundation Videos](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLF1fEGG5LcdHdTns6TN-uVhqs66ax6VkE&data=04%7C01%7CChad.Austin%40microsoft.com%7Cf397e21ae3e841b6d5f308d955d2ebbc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637635186651906624%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=9FbiDnMO8tfgInZ2JthkPpUbZ7VHVtUddr1yAUl4yTI%3D&reserved=0) | Stack Hub Foundation videos on YouTube | 
+| Cyber.mil PKI/PKE Library | [PKI/PKE Library](https://public.cyber.mil/pki-pke/pkipke-document-library/) | 
+| Integrate ADFS Identity | [Integrate ADFS with Stack Hub](https://docs.microsoft.com/en-us/azure-stack/operator/azure-stack-integrate-identity?view=azs-2108#active-directory-federation-services-and-graph) | 
+| Rich Shillington's GitHub | [Azure Stack Admin Tools](https://github.com/RichShillingtonMSFT/azurestack-admin-tools) | Excellent resource - bookmark this page
+| Article on Removing ASDK Network Restrictions | [Remove Network Restrictions](https://infohub.delltechnologies.com/p/azure-stack-development-kit-removing-network-restrictions/) |
+Initiator VM Overview Video | [Meeting Recording](https://microsoft-my.sharepoint.com/:v:/p/simong/EQKDHqH8G2xGiEhEc2ccSJ0BiO9csZsLhUiWNQ9iyPibSA) |
+| | |

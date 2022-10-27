@@ -1,0 +1,1 @@
+These are documents provided by the Product Group. These are copies so a more recent version may be available from the Product Group. However, it is not easy to get access so these copies are intended to bridge that gap.
